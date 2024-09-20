@@ -1,5 +1,5 @@
-from Personnage import *
-from main import *
+from Python.main import Perso
+
 
 def montée_lv_mob(ennemi):
     ennemi.lv=int(ennemi.lv+1)

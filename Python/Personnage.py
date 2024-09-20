@@ -68,3 +68,4 @@ class Personnage :
 
     def affiche_armures(self):
         print("|| Casque :",self.casque,self.casque_protection,"de protection || Plastron :", self.plastron,self.plastron_protection,"de protection || Jambières :", self.jambières,self.jambières_protection,"de protection || Bottes :", self.bottes,self.bottes_protection,"de protection ||")
+
